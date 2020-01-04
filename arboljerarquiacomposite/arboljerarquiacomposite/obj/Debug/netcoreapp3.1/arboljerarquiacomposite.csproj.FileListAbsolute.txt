@@ -1,0 +1,11 @@
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\bin\Debug\netcoreapp3.1\arboljerarquiacomposite.exe
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\bin\Debug\netcoreapp3.1\arboljerarquiacomposite.deps.json
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\bin\Debug\netcoreapp3.1\arboljerarquiacomposite.runtimeconfig.json
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\bin\Debug\netcoreapp3.1\arboljerarquiacomposite.runtimeconfig.dev.json
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\bin\Debug\netcoreapp3.1\arboljerarquiacomposite.dll
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\bin\Debug\netcoreapp3.1\arboljerarquiacomposite.pdb
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\obj\Debug\netcoreapp3.1\arboljerarquiacomposite.csprojAssemblyReference.cache
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\obj\Debug\netcoreapp3.1\arboljerarquiacomposite.AssemblyInfoInputs.cache
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\obj\Debug\netcoreapp3.1\arboljerarquiacomposite.AssemblyInfo.cs
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\obj\Debug\netcoreapp3.1\arboljerarquiacomposite.dll
+C:\Users\Rosa\source\repos\arboljerarquiacomposite\arboljerarquiacomposite\obj\Debug\netcoreapp3.1\arboljerarquiacomposite.pdb

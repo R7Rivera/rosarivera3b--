@@ -1,0 +1,11 @@
+C:\Users\Rosa\source\repos\Composite2\Composite2\bin\Debug\netcoreapp3.1\Composite2.exe
+C:\Users\Rosa\source\repos\Composite2\Composite2\bin\Debug\netcoreapp3.1\Composite2.deps.json
+C:\Users\Rosa\source\repos\Composite2\Composite2\bin\Debug\netcoreapp3.1\Composite2.runtimeconfig.json
+C:\Users\Rosa\source\repos\Composite2\Composite2\bin\Debug\netcoreapp3.1\Composite2.runtimeconfig.dev.json
+C:\Users\Rosa\source\repos\Composite2\Composite2\bin\Debug\netcoreapp3.1\Composite2.dll
+C:\Users\Rosa\source\repos\Composite2\Composite2\bin\Debug\netcoreapp3.1\Composite2.pdb
+C:\Users\Rosa\source\repos\Composite2\Composite2\obj\Debug\netcoreapp3.1\Composite2.csprojAssemblyReference.cache
+C:\Users\Rosa\source\repos\Composite2\Composite2\obj\Debug\netcoreapp3.1\Composite2.AssemblyInfoInputs.cache
+C:\Users\Rosa\source\repos\Composite2\Composite2\obj\Debug\netcoreapp3.1\Composite2.AssemblyInfo.cs
+C:\Users\Rosa\source\repos\Composite2\Composite2\obj\Debug\netcoreapp3.1\Composite2.dll
+C:\Users\Rosa\source\repos\Composite2\Composite2\obj\Debug\netcoreapp3.1\Composite2.pdb
